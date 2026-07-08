@@ -49,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
