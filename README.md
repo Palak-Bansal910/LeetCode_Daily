@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
