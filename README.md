@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2404-most-frequent-even-element) |
 ## Divide and Conquer
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0171-excel-sheet-column-number) |
+| [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Trie
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
