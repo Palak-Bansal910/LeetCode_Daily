@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0724-find-pivot-index) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
