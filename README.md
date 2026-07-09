@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
@@ -155,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
