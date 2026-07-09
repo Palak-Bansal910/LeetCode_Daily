@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
