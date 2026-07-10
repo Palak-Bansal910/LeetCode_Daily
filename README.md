@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0258-add-digits) |
 ## Union-Find
 |  |
 | ------- |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0207-course-schedule) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
