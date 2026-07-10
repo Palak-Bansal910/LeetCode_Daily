@@ -199,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0207-course-schedule) |
 ## Matrix
 |  |
 | ------- |
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
