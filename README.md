@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
