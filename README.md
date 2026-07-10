@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
