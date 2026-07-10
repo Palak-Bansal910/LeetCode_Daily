@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0724-find-pivot-index) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0974-subarray-sums-divisible-by-k) |
