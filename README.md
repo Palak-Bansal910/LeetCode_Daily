@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1695-maximum-erasure-value) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2404-most-frequent-even-element) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2404-most-frequent-even-element) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1695-maximum-erasure-value](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1695-maximum-erasure-value) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Graph Theory
 |  |
 | ------- |
