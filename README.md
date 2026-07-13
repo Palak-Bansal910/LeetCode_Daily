@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1480-running-sum-of-1d-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
