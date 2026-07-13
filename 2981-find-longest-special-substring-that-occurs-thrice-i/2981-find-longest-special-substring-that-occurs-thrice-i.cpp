@@ -1,48 +1,36 @@
 class Solution {
 public:
-    bool check(string &s, int len) {
-        vector<int> cnt(26, 0);
-        int n = s.size();
-
-        int i = 0;
-
-        while (i < n) {
-            int j = i;
-
-            while (j < n && s[j] == s[i])
-                j++;
-
-            int run = j - i;
-
-            if (run >= len)
-                cnt[s[i] - 'a'] += run - len + 1;
-
-            if (cnt[s[i] - 'a'] >= 3)
-                return true;
-
-            i = j;
-        }
-
-        return false;
-    }
-
     int maximumLength(string s) {
         int n = s.size();
+        unordered_map<string,int> freq;
 
-        int low = 1, high = n;
-        int ans = -1;
+        for(int i = 0; i < n; i++){
+            string sub = "";
 
-        while (low <= high) {
-            int mid = (low + high) / 2;
+            for(int j = i; j < n; j++){
+                sub += s[j];
 
-            if (check(s, mid)) {
-                ans = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+                bool special = true;
+                for(int k = 1; k < sub.size(); k++){
+                    if(sub[k] != sub[0]){
+                        special = false;
+                        break;
+                    }
+                }
+
+                if(special)
+                    freq[sub]++;
             }
         }
 
+        int ans = -1;
+
+        for(auto &i : freq){
+            if(i.second >= 3)
+                ans = max(ans, (int)i.first.size());
+        }
+
         return ans;
+        
     }
 };
