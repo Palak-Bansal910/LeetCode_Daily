@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0904-fruit-into-baskets) |
