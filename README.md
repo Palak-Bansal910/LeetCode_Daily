@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0485-max-consecutive-ones) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0704-binary-search) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1572-matrix-diagonal-sum) |
