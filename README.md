@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Sliding Window
 |  |
