@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1480-running-sum-of-1d-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
