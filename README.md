@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0171-excel-sheet-column-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
