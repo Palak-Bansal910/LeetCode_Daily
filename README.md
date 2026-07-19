@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0020-valid-parentheses) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0231-power-of-two) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
