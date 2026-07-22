@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0217-contains-duplicate) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -368,4 +370,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
