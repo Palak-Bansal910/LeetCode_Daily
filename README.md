@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
