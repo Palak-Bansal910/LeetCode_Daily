@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0645-set-mismatch) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0645-set-mismatch) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -394,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
