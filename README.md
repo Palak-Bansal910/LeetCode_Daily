@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
