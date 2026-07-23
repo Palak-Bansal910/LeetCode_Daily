@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
