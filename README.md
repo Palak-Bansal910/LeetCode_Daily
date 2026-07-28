@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -456,5 +459,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
