@@ -330,11 +330,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -414,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
