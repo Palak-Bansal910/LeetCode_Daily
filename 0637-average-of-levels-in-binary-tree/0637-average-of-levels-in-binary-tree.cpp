@@ -29,11 +29,11 @@ public:
         }
         vector<double> ans;
         for (auto level : result) {
-            long long sum = 0;
+            double sum = 0;
             for (auto x : level) {
                 sum += x;
             }
-            double avg = (double)sum / level.size();
+            double avg = sum / level.size();
             ans.push_back(avg);
         }
         return ans;
