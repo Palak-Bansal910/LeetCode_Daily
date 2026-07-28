@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1609-even-odd-tree) |
 ## Matrix
 |  |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
@@ -475,5 +478,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
