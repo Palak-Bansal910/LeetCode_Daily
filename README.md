@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -480,4 +483,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
 | [1609-even-odd-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
