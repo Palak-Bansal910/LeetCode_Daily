@@ -36,40 +36,30 @@ public:
         }
 
         root->val = 0;
-
         q.push(root);
         int level = 0;
-
         while (!q.empty()) {
             int n = q.size();
 
             for (int i = 0; i < n; i++) {
-
                 TreeNode* curr = q.front();
                 q.pop();
-
                 long long childSum = 0;
-
                 if (curr->left)
                     childSum += curr->left->val;
-
                 if (curr->right)
                     childSum += curr->right->val;
-
                 if (curr->left) {
                     curr->left->val = levelSum[level + 1] - childSum;
                     q.push(curr->left);
                 }
-
                 if (curr->right) {
                     curr->right->val = levelSum[level + 1] - childSum;
                     q.push(curr->right);
                 }
             }
-
             level++;
         }
-
         return root;
     }
 };
