@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -556,5 +560,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
