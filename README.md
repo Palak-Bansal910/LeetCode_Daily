@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0053-maximum-subarray) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0113-path-sum-ii) |
 ## Design
 |  |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0102-binary-tree-level-order-traversal) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0102-binary-tree-level-order-traversal) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0530-minimum-absolute-difference-in-bst) |
