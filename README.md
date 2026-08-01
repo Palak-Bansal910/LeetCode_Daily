@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
@@ -575,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
