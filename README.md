@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1480-running-sum-of-1d-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0918-maximum-sum-circular-subarray) |
+| [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -594,4 +597,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
