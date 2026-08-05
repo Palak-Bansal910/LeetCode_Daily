@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3310-remove-methods-from-project](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3310-remove-methods-from-project](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0207-course-schedule) |
+| [3310-remove-methods-from-project](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
