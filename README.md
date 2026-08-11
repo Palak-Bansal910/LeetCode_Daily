@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2404-most-frequent-even-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3731-find-missing-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2404-most-frequent-even-element) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
