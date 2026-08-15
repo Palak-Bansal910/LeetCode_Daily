@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0832-flipping-an-image) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
