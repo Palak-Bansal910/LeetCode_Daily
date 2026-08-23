@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1927-sum-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
