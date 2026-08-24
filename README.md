@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -659,12 +664,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
