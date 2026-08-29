@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2404-most-frequent-even-element) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
 |  |
 | ------- |
