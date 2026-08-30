@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
