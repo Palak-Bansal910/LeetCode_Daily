@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0328-odd-even-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
