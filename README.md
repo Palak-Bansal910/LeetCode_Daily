@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0918-maximum-sum-circular-subarray) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0835-image-overlap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1572-matrix-diagonal-sum) |
