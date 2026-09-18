@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1672-richest-customer-wealth) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1695-maximum-erasure-value](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1695-maximum-erasure-value) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2404-most-frequent-even-element) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1695-maximum-erasure-value](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1695-maximum-erasure-value) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
