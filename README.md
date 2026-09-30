@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0940-distinct-subsequences-ii) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0844-backspace-string-compare) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0940-distinct-subsequences-ii) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
