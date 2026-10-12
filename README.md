@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2404-most-frequent-even-element) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2404-most-frequent-even-element) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0832-flipping-an-image) |
 | [0957-prison-cells-after-n-days](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0957-prison-cells-after-n-days) |
 | [1386-cinema-seat-allocation](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
