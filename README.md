@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1480-running-sum-of-1d-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1672-richest-customer-wealth) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1927-sum-game) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0200-number-of-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
 |  |
@@ -641,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -715,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -754,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1302-deepest-leaves-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -774,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0938-range-sum-of-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -823,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bracket Sequences
 |  |
@@ -852,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0141-linked-list-cycle) |
 | [0457-circular-array-loop](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0457-circular-array-loop) |
 | [0957-prison-cells-after-n-days](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/0957-prison-cells-after-n-days) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Palak-Bansal910/LeetCode_Daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
